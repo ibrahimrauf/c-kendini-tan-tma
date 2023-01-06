@@ -1,0 +1,15 @@
+C:\Vs code\C#\c# kendini tanıtma\bin\Debug\net6.0\c# kendini tanıtma.exe
+C:\Vs code\C#\c# kendini tanıtma\bin\Debug\net6.0\c# kendini tanıtma.deps.json
+C:\Vs code\C#\c# kendini tanıtma\bin\Debug\net6.0\c# kendini tanıtma.runtimeconfig.json
+C:\Vs code\C#\c# kendini tanıtma\bin\Debug\net6.0\c# kendini tanıtma.dll
+C:\Vs code\C#\c# kendini tanıtma\bin\Debug\net6.0\c# kendini tanıtma.pdb
+C:\Vs code\C#\c# kendini tanıtma\obj\Debug\net6.0\c# kendini tanıtma.csproj.AssemblyReference.cache
+C:\Vs code\C#\c# kendini tanıtma\obj\Debug\net6.0\c# kendini tanıtma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vs code\C#\c# kendini tanıtma\obj\Debug\net6.0\c# kendini tanıtma.AssemblyInfoInputs.cache
+C:\Vs code\C#\c# kendini tanıtma\obj\Debug\net6.0\c# kendini tanıtma.AssemblyInfo.cs
+C:\Vs code\C#\c# kendini tanıtma\obj\Debug\net6.0\c# kendini tanıtma.csproj.CoreCompileInputs.cache
+C:\Vs code\C#\c# kendini tanıtma\obj\Debug\net6.0\c# kendini tanıtma.dll
+C:\Vs code\C#\c# kendini tanıtma\obj\Debug\net6.0\refint\c# kendini tanıtma.dll
+C:\Vs code\C#\c# kendini tanıtma\obj\Debug\net6.0\c# kendini tanıtma.pdb
+C:\Vs code\C#\c# kendini tanıtma\obj\Debug\net6.0\c# kendini tanıtma.genruntimeconfig.cache
+C:\Vs code\C#\c# kendini tanıtma\obj\Debug\net6.0\ref\c# kendini tanıtma.dll
